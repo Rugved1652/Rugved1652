@@ -1,5 +1,5 @@
 ### Hi there 👋
-##⚡Talk is cheap.. you can see my code⚡
+## Talk is cheap.. you can see my code⚡
 - 😄 This is Rugved Patel, Senior Frontend Developer at PragetX Tehnologies
 - and 
 - 🔭 My Skill set:( You will find ready to use templates and skeletons in my repos)
