@@ -2,7 +2,7 @@
 ## Talk is cheap.. you can see my code⚡
 - 😄 This is Rugved Patel, Senior Frontend Developer at PragetX Tehnologies
 - and 
-- 🔭 My Skill set:( You will find ready to use templates and skeletons in my repos)
+- 🔭skillset:( You will find ready to use templates and skeletons in my repos)
 -  ReactJS ,NextJS ,ElectronJS ,Javascript ,TypeScript,
 -  Redux,GraphQL,PostgresSQL,mySQL, MongoDB, ExpressJS, 
 -  React-Native ,Django ,Python and its Libraries, 
