@@ -8,5 +8,4 @@
 -  React-Native ,Django ,Python and its Libraries, 
 -  tailwind CSS, SCSS, Bootstrap 5
 -  Test Libraries like Jest and Enzymes (for React)
--  Unity Engine with C#
 -  tools like Figma and Canva.
