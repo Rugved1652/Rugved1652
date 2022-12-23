@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Talk is cheap.. you can see my code⚡
-- 😄 This is Rugved Patel, Senior Frontend Developer at PragetX Tehnologies
+- 😄 This is Rugved Patel, Software Engineer at PhpDots Tehnologies
 - and 
 - 🔭skillset:( You will find ready to use templates and skeletons in my repos)
 -  ReactJS ,NextJS ,Javascript ,TypeScript,
