@@ -4,7 +4,7 @@
 - and 
 - 🔭skillset:( You will find ready to use templates and skeletons in my repos)
 -  ReactJS ,NextJS ,Javascript ,TypeScript,
--  Redux,GraphQL,PostgresSQL,mySQL, MongoDB, ExpressJS, 
+-  Redux,GraphQL, MongoDB, ExpressJS, 
 -  React-Native ,Django ,Python and its Libraries, 
 -  tailwind CSS, SCSS, Bootstrap 5
 -  Test Libraries like Jest and Enzymes (for React)
